@@ -2,6 +2,7 @@
 # URL: https://app.rollout.io/ex/5e8d760d9d6724d5ca00a960
 type: experiment
 name: my name
+labels: archived
 enabled: false
 flag: default.myName
 availableValues:
